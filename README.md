@@ -14,7 +14,7 @@ while (!mastered) {
 
 💻 Currently learning C++ and programming fundamentals
 
-🎯 Mission: Become a Software Engineer and build technology that pushes humanity forward.
+🎯 Mission: Become a Software Engineer who builds impactful technology and never stops learning
 
 ---
 
